@@ -1,4 +1,4 @@
-# Tailwind CSS Kurz - Trello
+# Tailwind CSS Course - Trello
 
 # Description
 
